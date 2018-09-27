@@ -1,0 +1,12 @@
+* {
+  font-family: Helvetica;
+}
+
+div {
+  text-align: center;
+}
+
+body {
+  padding: .5rem;
+  margin: 2rem;
+}
